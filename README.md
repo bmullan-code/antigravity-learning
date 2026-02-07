@@ -23,7 +23,10 @@
 - select Antigravity and Settings and Antigravity Settings
 
 
-
+### MCP Servers
+- eg. Context 7, has the latest api docs for llms etc.
+- eg. Firecrawl, chat with a website, scrape, search, status etc.
+- 
 
 
 
