@@ -11,7 +11,12 @@
 
 #### Workflow
 - At global or workspace level.
-- kind of like skills, define a set of instructions. 
+- kind of like skills, define a set of instructions.
+
+### Skills
+- create in .agents/skills folder
+- will be implicitly used.
+- https://antigravity.google/docs/skills
 
 
 ### Create "mood board"
